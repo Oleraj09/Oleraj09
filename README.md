@@ -1,6 +1,20 @@
 <h1 align="center">HI, I AM OLERAJ HOSSIN</h1>
 <h3 align="center">Want to work as Full Stack Developer. Learning C# and ASP.NET, Also Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oleraj09&label=Profile%20views&color=0e75b6&style=flat" alt="oleraj09" /> </p>
+<p align="center">
+  <a href="https://leetcode.com/mondoloz/">
+    <img src="https://cp-logo.vercel.app/leetcode/mondoloz" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/mondoloz">
+    <img src="https://cp-logo.vercel.app/codeforces/mondoloz" alt="Codeforces Rating" />
+  </a>
+  <a href="https://github.com/oleraj09?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/oleraj09?color=green&logo=github">
+  </a>
+  <a href="https://github.com/oleraj09/">
+    <img src="https://komarev.com/ghpvc/?username=oleraj09" alt="visitors" />
+  </a>
+
+</p>
 <img align="left" alt="Coding" width="400" height="470" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
    <h3 align="center">ABOUT ME: </h3><hr>
@@ -15,16 +29,21 @@
    &nbsp; &nbsp; 💬 I have Knowledge in PHP and Laravel Framework.
   
    &nbsp; &nbsp; 👯 I’m looking to collaborate with Full Stack developers.
-         
-   &nbsp; &nbsp; 📫 My personal Mail : Olerajhossin@gmail.com
-         
-   &nbsp; &nbsp; 😄 pronunciation    : Oli Raj
    
-   &nbsp; &nbsp; 👉 Fun Fact         : I am Kinda Introvert but friendly 😜
+   &nbsp; &nbsp; 👯 Checkout My resume : [Resume](https://github.com/Oleraj09/Oleraj09/blob/master/Oleraj.pdf)
+         
+   &nbsp; &nbsp; 📫 My personal Mail   : Olerajhossin@gmail.com
          
    &nbsp; &nbsp; 🔭 I Love travelling, Every New place refresh my mind.
   
-   &nbsp; &nbsp; 💬 Feel Free To ask me anything: [Linkedin](https://www.linkedin.com/in/oleraj-hossin-2b8b5a19a)  ||   [Facebook](https://www.facebook.com/oleraj.hossin)   ||  [Twitter](https://twitter.com/mondoloz)
+   &nbsp; &nbsp; 💬 Feel Free To ask me anything: 
+   
+  &nbsp; &nbsp;   <a href="https://www.linkedin.com/in/oleraj-hossin-2b8b5a19a">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.facebook.com/oleraj.hossin">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+  <a href="https://twitter.com/mondoloz">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   </p>
    
 <br>

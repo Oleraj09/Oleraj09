@@ -27,7 +27,6 @@
    &nbsp; &nbsp; 💬 Feel Free To ask me anything: [Linkedin](https://www.linkedin.com/in/oleraj-hossin-2b8b5a19a)  ||   [Facebook](https://www.facebook.com/oleraj.hossin)   ||  [Twitter](https://twitter.com/mondoloz)
   </p>
    
-  <hr>
 
 
 

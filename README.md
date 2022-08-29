@@ -6,7 +6,7 @@
    <h3 align="center">ABOUT ME: </h3><hr>
    <p align="left">
   
-   &nbsp; &nbsp; 👉 I’m currently doing Compitative Programming using C/C++.
+   &nbsp; &nbsp; 👉 I’m currently doing Competative Programming using C/C++.
   
    &nbsp; &nbsp; 💞️ I’m currently Learning C# and ASP.NET Framework.
 
@@ -29,7 +29,7 @@
    
 <br>
 
-# 💻 Tech Stack:
+# 💻 Tech Knowledge:
 <h4 align="left">Competative Programming</h4>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 

@@ -1,5 +1,5 @@
 <h1 align="center">HI, I AM OLERAJ HOSSIN</h1>
-<h3 align="center">Want to work as Full Stack Developer. Learning C# and ASP.NET also Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
+<h3 align="center">Want to work as Full Stack Developer. Learning C# and ASP.NET, Also Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oleraj09&label=Profile%20views&color=0e75b6&style=flat" alt="oleraj09" /> </p>
 <img align="left" alt="Coding" width="400" height="470" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 

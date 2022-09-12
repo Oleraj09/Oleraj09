@@ -1,12 +1,6 @@
 <h1 align="center">HI, I AM OLERAJ HOSSIN</h1>
 <h3 align="center">Want to work as Full Stack Developer. Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
 <p align="center">
-  <a href="https://leetcode.com/mondoloz/">
-    <img src="https://cp-logo.vercel.app/leetcode/mondoloz" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/mondoloz">
-    <img src="https://cp-logo.vercel.app/codeforces/mondoloz" alt="Codeforces Rating" />
-  </a>
   <a href="https://github.com/oleraj09?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/oleraj09?color=green&logo=github">
   </a>

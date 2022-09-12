@@ -1,5 +1,5 @@
 <h1 align="center">HI, I AM OLERAJ HOSSIN</h1>
-<h3 align="center">Want to work as Full Stack Developer. Learning C# and ASP.NET, Also Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
+<h3 align="center">Want to work as Full Stack Developer. Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language and Server Sider Framework.</h3><hr>
 <p align="center">
   <a href="https://leetcode.com/mondoloz/">
     <img src="https://cp-logo.vercel.app/leetcode/mondoloz" alt="Leet code rating" />

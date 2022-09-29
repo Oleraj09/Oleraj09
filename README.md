@@ -16,11 +16,11 @@
   
    &nbsp; &nbsp; 👉 I’m currently doing Competative Programming using C/C++.
   
-   &nbsp; &nbsp; 💞️ I’m currently Learning C# and ASP.NET Framework.
+   &nbsp; &nbsp; 💞️ I’m currently Learning Web Programming.
 
    &nbsp; &nbsp; 🌱 Also Intersted on MERN Stack Developing.
   
-   &nbsp; &nbsp; 💬 I have Knowledge in PHP and Laravel Framework.
+   &nbsp; &nbsp; 💬 I have Developing skill with PHP and Laravel Framework.
   
    &nbsp; &nbsp; 👯 I’m looking to collaborate with Full Stack developers.
    

@@ -1,5 +1,5 @@
 <h1 align="center">HI, I AM OLERAJ HOSSIN</h1>
-<h3 align="center">Want to work as Full Stack Developer. Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language with Server Sider Framework.</h3><hr>
+<h3 align="center">Want to work as Full Stack Developer. Knowledge at Frontend and Backend Web Developing using Markup & Scripting Language with Server Side Framework.</h3><hr>
 <p align="center">
   <a href="https://github.com/oleraj09?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/oleraj09?color=green&logo=github">
